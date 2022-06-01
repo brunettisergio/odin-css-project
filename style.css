@@ -97,6 +97,7 @@ button {
     display: flex;
     margin: 0px;
     padding: 5px 28px 5px 28px;
+    width: 115px;
     background-color: #3882F6;
     color: #E5E7EB;
     font-size: 15px;
@@ -130,6 +131,18 @@ button {
     padding: 0px;
     padding-bottom:80px;
     gap: 50px;
+    text-align: center;
+}
+
+.image.placeholder {
+    display: flex;
+    margin-left: 130px;
+    margin-right: 130px;
+    border: 2px 2px 2px 2px;
+    border-style: ridge;
+    border-radius: 8px;
+    padding: 70px 20px 70px 20px;
+    border-color: #3882F6;
     text-align: center;
 }
 
